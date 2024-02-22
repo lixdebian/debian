@@ -3,7 +3,7 @@
 # debian.sh install,funciona debian 11 e 12 sem nenhuma problema !
 
 # como executar o programa chmod 777 debian.sh
-apt update & apt dist-upgrade -y
+apt update & apt dist-upgrade -y & apt autoremove
 # programas 
 ##URLS
 URL_GOOGLE_CHROME="https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb"
