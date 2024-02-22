@@ -52,5 +52,18 @@ sudo dpkg -i $DIRETORIO_DOWNLOADS/*.deb
 apt install vlc emarcs inkscape krita gimp qimgv qbittorrent goverlay gpaterd gnome-disk-utility timeshitf flatpak gnome-software-plugin-flatpak
 # repositorio do flathub
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
+# instalação snap
+apt update
+apt install snapd
+reboot
+snap install core
+snap install hello-world
 #da uma reiniciada no sistema 
 reboot
+# instalar o wine 
+dpkg --add-architecture i386 
+mkdir -pm755 /etc/apt/keyrings
+wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/debian/dists/bookworm/winehq-bookworm.sources
+apt update
+apt install --install-recommends winehq-stable
