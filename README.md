@@ -1,2 +1,13 @@
+DEBIAN INSTALL!
+
 ESSE PROJETO PRA PESSOAS QUE TEM PREGUIÇA PRA INSTALAR/CONFIGURAR O SISTEMA !!
 
+debianTudoqueescrevo.Não.EusimplesmentesintoComaim
+aginação.Nãousoocoração.Tudooquesonhooupasso,Oquem
+efalhaoufinda,ÉcomoqueumterraçoSobreoutracoisaaind
+a.Essacoisaéqueélinda.PorissoescrevoemmeioDoquenão
+estádepé,Livredomeuenleio,Sériodoquenãoé.Sentir?Si
+ntaquemlê!debianTudoqueescrevo.Não.Eusimplesmentes
+intoComaimaginação.Nãousoocoração.Tudooquesonhooup
+asso,Oquemefalhaoufinda,ÉcomoqueumterraçoSobreoutr
+acoisaainda.Essacoisaéqueélinda.Porissoescre
