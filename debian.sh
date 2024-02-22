@@ -3,7 +3,6 @@
 # debian.sh install,funciona debian 11 e 12 sem nenhuma problema !
 
 # como executar o programa chmod 777 debian.sh
-su -
 apt update & apt dist-upgrade -y
 # programas 
 ##URLS
